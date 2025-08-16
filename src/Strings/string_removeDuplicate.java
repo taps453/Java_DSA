@@ -1,6 +1,6 @@
 //Remove duplicate from String
 
-package collections;
+package Strings;
 
 import java.util.HashSet;
 import java.util.stream.Collectors;
