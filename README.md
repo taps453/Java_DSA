@@ -21,3 +21,4 @@ String -
 3. Find the first non-repeating character in a String. (Input -> "swiss" , Output -> w )
 4. HeXaWarE -> hExAwARe
 5. Remove duplicate from String.
+6. Find the last repeating char in string.

@@ -31,7 +31,7 @@ public class string_removeDuplicate {
 		
 		for(int i = 0; i < name.length(); i++) {
 			char c = name.charAt(i);
-			if(sb.indexOf(name.valueOf(c)) == -1) {
+			if(sb.indexOf(String.valueOf(c)) == -1) {
 				sb.append(c);
 			}
 		}
