@@ -1,6 +1,6 @@
 package Strings;
 
-public class reverse_string_preserve_whitespsce {
+public class reverse_string_preservewhitespaces {
 
 	public static void main(String[] args) {
 		String str = "Hi Anand";
@@ -22,9 +22,11 @@ public class reverse_string_preserve_whitespsce {
 				char temp = new_char[left];
 				new_char[left] = new_char[right];
 				new_char[right] = temp;
+				left++;
+				right--;
 			}
 		}
-		return new_char.toString();
+		return String.valueOf(new_char);
 	}
 
 }
