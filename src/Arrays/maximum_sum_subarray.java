@@ -29,7 +29,6 @@ public class maximum_sum_subarray {
 			cur_sum = Math.max(cur_sum + arr[i] , arr[i]);
 			total_sum = Math.max(total_sum, cur_sum);
 		}
-		return total_sum;
-		
+		return total_sum;		
 	}
 }

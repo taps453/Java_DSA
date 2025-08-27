@@ -28,5 +28,4 @@ public class reverse_string_preservewhitespaces {
 		}
 		return String.valueOf(new_char);
 	}
-
 }
