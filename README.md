@@ -22,3 +22,9 @@ String -
 4. HeXaWarE -> hExAwARe
 5. Remove duplicate from String.
 6. Find the last repeating char in string.
+
+
+Linked List - 
+1. Add a new node at front/end
+2. Find Cycle in linked list
+3. Reverse a linked list
