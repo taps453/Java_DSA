@@ -22,17 +22,16 @@
 
 ## 🟩 String
 1. 🔄 Reverse string while preserving whiteSpaces.
-2. 🔁 Find the last repeating char in string.
+2. 🔄 String reverse all type
 3. 🧩 HeXaWarE -> hExAwARe
-4. 🗑️ Remove duplicate from String.
-5. 🗣️ Count vowel and consonant in a given string.
-6. 🥇 Find the first non-repeating character in a String. (Input -> "swiss" , Output -> w )
-7. 🔄 String reverse all type
-8. 🗑️ Remove duplicate from String
+4. 🅾️ Find duplicate characters in a string
+5. 🗑️ Remove duplicate from String.
+6. 🗣️ Count vowel and consonant in a given string.
+7. 🥇 Find the first non-repeating character in a String.
+8. 🔁 Find the last repeating char in string.
 9. 🔍 Palindrome Check
-10. 🅾️ Find duplicate characters in a string
-11. 🔄 Reverse words in a sentence
-12. 📏 Longest substring without repeating characters
+10. 🔄 Reverse words in a sentence
+11. 📏 Longest substring without repeating characters
 
 ---
 
