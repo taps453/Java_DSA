@@ -24,10 +24,11 @@ String -
 5.  Count vowel and consonant in a given string. --
 6.  Find the first non-repeating character in a String. (Input -> "swiss" , Output -> w ) --
 7.  String reverse all type
-8.  Palindrome check
-9.  Find duplicate characters in a string
-10. Reverse words in a sentence
-11. Longest substring without repeating characters
+8.  Remove duplicate from String
+9.  Palindrome Check
+10. Find duplicate characters in a string
+11. Reverse words in a sentence
+12. Longest substring without repeating characters
  
 Linked List  - 
 1. Add Node at front / end
@@ -49,6 +50,3 @@ Automation-Oriented Coding -
 Bonus (to stand out) - 
 1. Compare 2 JSON/XML files
 3. Retry failed API calls
- 
- 
- 
