@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Java_DSA-Data%20Structures%20%26%20Algorithms-%2334A853?style=for-the-badge" alt="Java DSA"/>
 <br>
-<h1>🚀 Java DSA Cheat Sheet 🚀</h1>
+<h1>🚀 Java DSA - SDET 🚀</h1>
 </div>
 
 ---
@@ -50,6 +50,13 @@
 3. 🔁 Reverse Linked List
 
 ---
+
+## 🟧 Binary Search
+1. 🥇 Find element in an array using Binary Search
+2. 🥈 Find element in a reverse sorted array using Binary Search
+3. 🔁 Find first and last occurrence of an element in an array
+4. 🔁 Find element count / frequency in an array using Binary Search.
+5. ➕ Find Peek element in an array using Binary search
 
 ## 🟪 Numbers & Logic
 1. 🔢 Prime number check
