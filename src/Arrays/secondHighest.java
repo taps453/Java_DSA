@@ -14,7 +14,7 @@ public class secondHighest {
 		System.out.println(highestsecond(arr2));
 		
 		List<Integer> al = Arrays.asList(12, 35, 1, 10, 34, 1);
-		highestsecond1(al);
+		System.out.println(highestsecond1(al));
 	}
 
 	public static int highestsecond(int[] arr) {
@@ -34,7 +34,7 @@ public class secondHighest {
 		return sec_high;
 	}
 	
-	public static void highestsecond1(List<Integer> al) {
+	public static int highestsecond1(List<Integer> al) {
 			int high = Integer.MIN_VALUE;
 			int sec_high = Integer.MIN_VALUE;
 			
@@ -47,6 +47,6 @@ public class secondHighest {
 					sec_high = x;
 				}
 			}
-			System.out.println("Second High in a List : " + sec_high);
+			return sec_high;
 	}
 }
